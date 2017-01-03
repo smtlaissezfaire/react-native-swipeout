@@ -1,3 +1,7 @@
+
+forked from [dancormier/react-native-swipeout](https://github.com/dancormier/react-native-swipeout), fixed bugs and republished
+---
+
 # react-native-swipeout
 iOS-style swipeout buttons that appear from behind a component
 
