@@ -1,5 +1,5 @@
 //  include react-native-swipeout
-import Swipeout from 'react-native-swipeout';
+import Swipeout from 'react-native-swipe-out';
 //  example row data (see for json structure)
 import rows from './data';
 //  example styles

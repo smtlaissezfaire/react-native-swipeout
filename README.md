@@ -2,14 +2,14 @@
 forked from [dancormier/react-native-swipeout](https://github.com/dancormier/react-native-swipeout), fixed bugs and republished
 ---
 
-# react-native-swipeout
+# react-native-swipe-out
 iOS-style swipeout buttons that appear from behind a component
 
 ![swipeout preview](http://i.imgur.com/oCQLNFC.gif)
 
 ## Installation
 ```
-npm install --save react-native-swipeout
+npm install --save react-native-swipe-out
 ```
 
 ## Usage example
@@ -19,7 +19,7 @@ See the [Wiki](https://github.com/dancormier/react-native-swipeout/wiki) usage t
 To use swipeout behind a iOS-style listitem, try [react-native-listitem](https://github.com/dancormier/react-native-listitem).
 
 ```
-var Swipeout = require('react-native-swipeout')
+var Swipeout = require('react-native-swipe-out')
 
 // Buttons
 var swipeoutBtns = [
